@@ -9,19 +9,31 @@
     "ultraLight": "#FFEFD1",
     "ultraDark": "#D2770C"
   },
-  "topbarLinks": [],
+  "topbarLinks": [
+    {
+      "name": "Learn more",
+      "url": "https://rangeworks.io/features"
+    }
+  ],
   "topbarCtaButton": {
-    "name": "Get Started",
-    "url": "/"
+    "name": "Contact Us",
+    "url": "https://rangeworks.io/contact/"
   },
-  "anchors": [],
+  "anchors": [
+    {
+      "name": "Contact Us",
+      "icon": "envelope",
+      "color": "#0284c7",
+      "url": "https://rangeworks.io/contact/"
+    }
+  ],
   "navigation": [
     {
       "group": "Home",
       "pages": ["introduction", "features", "faq"]
     },
     {
-      "group": "Guide",
+      "group": "Tutorial",
       "pages": ["setup"]
     }
   ]
