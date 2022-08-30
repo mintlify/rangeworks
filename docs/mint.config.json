@@ -36,5 +36,8 @@
       "group": "Tutorial",
       "pages": ["setup"]
     }
-  ]
+  ],
+  "footerSocials": {
+    "linkedin": "https://www.linkedin.com/company/range-works/about/"
+  }
 }
