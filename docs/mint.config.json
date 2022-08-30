@@ -1,7 +1,7 @@
 {
   "name": "Rangeworks",
-  "logo": "",
-  "favicon": "",
+  "logo": "/logo/logo.png",
+  "favicon": "/logo/logo.png",
   "colors": {
     "primary": "#3b83f4"
   },
