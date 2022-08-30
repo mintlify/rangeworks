@@ -14,7 +14,7 @@
   "navigation": [
     {
       "group": "Home",
-      "pages": ["introduction"]
+      "pages": ["introduction", "features", "faq"]
     },
     {
       "group": "Guide",
