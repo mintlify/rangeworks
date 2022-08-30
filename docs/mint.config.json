@@ -3,7 +3,11 @@
   "logo": "/logo/logo.png",
   "favicon": "/logo/logo.png",
   "colors": {
-    "primary": "#3b83f4"
+    "primary": "#FDB022",
+    "light": "#FFC862",
+    "dark": "#ED840A",
+    "ultraLight": "#FFEFD1",
+    "ultraDark": "#D2770C"
   },
   "topbarLinks": [],
   "topbarCtaButton": {
