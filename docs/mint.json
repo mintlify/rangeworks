@@ -11,8 +11,8 @@
   },
   "topbarLinks": [
     {
-      "name": "Learn more",
-      "url": "https://rangeworks.io/features"
+      "name": "Home",
+      "url": "https://rangeworks.io"
     }
   ],
   "topbarCtaButton": {
@@ -21,9 +21,13 @@
   },
   "anchors": [
     {
+      "name": "Features",
+      "icon": "list",
+      "url": "https://rangeworks.io/features/"
+    },
+    {
       "name": "Contact Us",
       "icon": "envelope",
-      "color": "#0284c7",
       "url": "https://rangeworks.io/contact/"
     }
   ],
