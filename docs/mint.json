@@ -30,11 +30,11 @@
   "navigation": [
     {
       "group": "Home",
-      "pages": ["introduction", "features", "faq"]
+      "pages": ["introduction"]
     },
     {
       "group": "Tutorial",
-      "pages": ["setup"]
+      "pages": ["dashboard", "resources", "projects", "reports", "drive"]
     }
   ],
   "footerSocials": {
